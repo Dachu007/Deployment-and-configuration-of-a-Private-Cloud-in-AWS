@@ -1,6 +1,10 @@
 # Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 Ex.4 Deployment and configuration of a Private Cloud  in AWS
 
+Name:Dharshini S
+
+Reg no:212224040074
+
 ## Aim:
 To set up of a Private Cloud  in AWS.
 
